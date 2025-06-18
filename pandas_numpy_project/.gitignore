@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Data files
+*.csv
+*.json
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Matplotlib cache
+.mplconfig/
+
+# Plotly cache
+.plotly/
+
+# Python virtual environment
+pip-wheel-metadata/
